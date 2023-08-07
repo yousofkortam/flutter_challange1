@@ -32,7 +32,7 @@ class Categories extends StatelessWidget {
           height: 16.h,
         ),
         SizedBox(
-          height: 65.h,
+          height: 70.h,
           child: ListView.builder(
               scrollDirection: Axis.horizontal,
               itemCount: catigories.length,
